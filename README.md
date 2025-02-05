@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh
-- 👀 I’m Front-end Developer
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m MERN stack Developer
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me adarshg2612@gmail.com
 
 
