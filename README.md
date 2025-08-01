@@ -63,7 +63,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 </p>
 
-> “First, solve the problem. Then, write the code.” – John Johnson
+> “No. of lines of code you have written in your lifetime ∝ Logic building skills” 
 
 ---
 
