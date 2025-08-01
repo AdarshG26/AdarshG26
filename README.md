@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adarsh
-- 👀 I’m MERN stack and Python Developer
-- 🌱 I’m currently learning Flask
+- 👀 I’m MERN Stack Developer
+<!--- - 🌱 I’m currently learning --->
 - 📫 How to reach me adarshg2612@gmail.com
 
 
