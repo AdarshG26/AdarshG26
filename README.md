@@ -47,7 +47,7 @@
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/AdarshG26/" target="_blank">
+  <a href="https://www.linkedin.com/in/adarsh-gupta-07ab07243/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:adarshgupta.dev@gmail.com">
