@@ -33,7 +33,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Gupta101&show_icons=true&theme=github_dark" />
   <br />
@@ -41,6 +41,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Gupta101&layout=compact&theme=github_dark" />
 </p>
+-->
 
 ---
 
